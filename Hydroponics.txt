@@ -1,0 +1,10 @@
+Production 1
+10 food and 2 oxygen per sol
+Production 2
+12 food and 3 oxygen per sol
+Production 3
+14 food and 4 oxygen per sol
+Production 4
+16 food and 5 oxygen per sol
+Production 5
+18 food and 6 oxygen per sol

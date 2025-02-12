@@ -1,0 +1,5 @@
+!Help = Shows this help screen again.
+!Buildings = Show the buildings screen.
+!Colonists = Shows the colonists screen.
+!Resources = Shows the resources screen.
+!Sol = Passes to the next sol.
