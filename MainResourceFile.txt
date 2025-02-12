@@ -1,0 +1,5 @@
+Oxygen = 0
+Hydrogen = 0
+Electricity = 0
+Food = 0
+Alloys = 0

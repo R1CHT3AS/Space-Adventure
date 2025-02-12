@@ -1,0 +1,8 @@
+Hydroponics Level = 1
+Ice Harvesting Center Level = 1
+Arbouretum Level = 1
+Fusion Reactor Level = 1
+Crew Chambers Level = 1
+Atmosphere Management System Level = 1
+Hospital Level = 1
+Spa Level = 1

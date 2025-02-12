@@ -1,0 +1,5 @@
+Name: Jenny   Outlook: 8  Trait: Rude  Health: 100    Work Speed: 10     Hunger: 6
+
+Name: Jenny   Outlook: 8  Trait: Dumb  Health: 100    Work Speed: 4     Hunger: 9
+
+Name: Jill   Outlook: 7  Trait: Rude  Health: 100    Work Speed: 9     Hunger: 4
